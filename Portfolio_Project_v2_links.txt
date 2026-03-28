@@ -31,3 +31,14 @@ https://www.youtube.com/watch?v=7QfswaV0re4
 https://www.youtube.com/watch?v=0CSyIBHQy9g
 https://nvie.com/posts/a-successful-git-branching-model/
 https://www.headspin.io/blog/what-is-end-to-end-testing
+https://www.scrum.org/resources/what-is-sprint-planning
+https://planyway.com/blog/trello-agile-project-management
+https://www.guru99.com/software-testing.html
+https://www.agilebusiness.org/dsdm-project-framework/moscow-prioritisation.html
+https://nvie.com/posts/a-successful-git-branching-model/
+https://bigpicture.one/blog/velocity-in-scrum/
+https://www.atlassian.com/agile/scrum/standups
+https://www.atlassian.com/team-playbook/plays/retrospective
+https://www.browserstack.com/guide/end-to-end-testing
+https://www.youtube.com/watch?v=cwLxQ68SLqA
+https://www.youtube.com/watch?v=VywxIQ2ZXw4
